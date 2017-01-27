@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.alejandro.project.MainActivity">
+
+
+    <fragment
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:name="com.example.alejandro.project.Frag_Mem"
+        android:id="@+id/fragmentMem"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout="@layout/fragment_frag__mem"
+        tools:ignore="MissingConstraints" />
+</android.support.constraint.ConstraintLayout>

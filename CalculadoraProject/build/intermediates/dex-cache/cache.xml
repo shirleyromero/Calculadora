@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="213546ca30c69354e0de3fc18b0003038ab341f5">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\instant-run_4d4e57a6af0074c20f9e422ed4cac25aa4903e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_de47dacab1e573b16f717ffdbc81805989661009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_ce22038698e3580b09d613a7d3d94981d90d6de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_89a1e0307830a88e0689e5e62ed28dd13acf9222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_7d6409aa7c64bca5ae8e07835579d0319b36a927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_8b56891450d6d2a6f10e34e3402398692bdae4f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_6fbc15ec27f3a0204d04e373c4b1e40e87b67cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_b9b07a213b1f0e4386108c65b5bf684234f5c27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_32cfa68068933a02c52f80ef3197af9760f4acc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_3d96c1a8485eabdb85b86681a28794a61190e652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_525efbc526705f6d2a0a2d073c5c062510933311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49d3e2914ea7338583b8eaab1c43cfe03600f3c9">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e8a0801492b56f636c3af3ab8280bfc6848872b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ec17d0fa75b985b42d2b4b660fcbe916aff17368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\ALEJANDRO\Desktop\project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_054251dad3276d2d4c988926ccc2be8d5cbced0c.jar" />
+    </item>
+
+</items>
